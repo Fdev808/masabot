@@ -1,0 +1,13 @@
+{
+  "ownerNumber": ["6283811034750@s.whatsapp.net"],
+  "ownerName": ["Fahri"],
+  "botName": "Masa Bot",
+  "sessionName": "session",
+  "pathimg": "./media/Jojo.jpg",
+  "gamewaktu": 90,
+  "limitCount": 45,
+  "gcount": {
+	"prem": 1000000000000000000000000000000000,
+	"user": 45
+  }
+}
